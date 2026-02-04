@@ -1,0 +1,32 @@
+# Notice of Unauthorized Code Use
+
+This repository exists to document and disclose the unauthorized use of proprietary code originally developed and owned by me.
+
+## Summary
+A website currently deployed under the name **mxctweaks** contains code that is substantially identical to my private project.  
+This code was **not licensed, sold, or otherwise authorized** for reuse, redistribution, or deployment.
+
+## Evidence
+The following similarities have been identified:
+- Identical file structure and logic
+- Matching function names and implementations
+- Reused UI components and layout behavior
+- Code patterns unique to the original project
+
+All relevant evidence (timestamps, commit history, and comparisons) has been preserved.
+
+## Ownership
+The original codebase was created by me and is protected under copyright law.  
+Copyright protection applies automatically upon creation.
+
+## Current Status
+- A DMCA takedown request has been submitted to the hosting provider
+- Additional platform reports may follow if the infringement continues
+
+## Resolution
+If you are the operator of **mxctweaks** and believe this is an error, you may contact me to resolve this matter.
+Removal of the infringing code will resolve the issue.
+
+## Disclaimer
+This repository is provided for documentation purposes only.  
+No harassment, threats, or personal information are intended or encouraged.
